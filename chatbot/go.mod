@@ -6,7 +6,7 @@ require (
 	github.com/aws/aws-sdk-go v1.15.78
 	github.com/ghodss/yaml v1.0.0
 	github.com/go-kit/kit v0.9.0
-	github.com/hashicorp/go-getter v1.4.1
+	github.com/hashicorp/go-getter v1.5.2
 	github.com/onrik/logrus v0.5.1
 	github.com/pkg/errors v0.9.1
 	github.com/prometheus/client_golang v1.6.0
