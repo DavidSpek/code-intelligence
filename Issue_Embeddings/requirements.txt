@@ -17,7 +17,7 @@ cymem==2.0.2
 cytoolz==0.9.0.1
 decorator==4.4.0
 defusedxml==0.6.0
-dill==0.3.0
+dill==0.3.3
 entrypoints==0.3
 fastai==1.0.53.post3
 fastprogress==0.1.21
