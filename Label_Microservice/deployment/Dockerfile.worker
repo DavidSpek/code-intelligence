@@ -1,5 +1,5 @@
 # Dockerfile for prediction workers
-FROM tensorflow/tensorflow:1.15.0-py3
+FROM tensorflow/tensorflow:2.2.2-py3
 
 ENV LANG=C.UTF-8 LC_ALL=C.UTF-8
 
