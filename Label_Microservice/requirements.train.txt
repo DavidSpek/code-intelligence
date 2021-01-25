@@ -15,7 +15,7 @@ googleapis-common-protos==1.6.0
 grpc-google-iam-v1==0.12.3
 grpcio==1.22.0
 # pin jupyter-client to deal with https://github.com/nteract/papermill/issues/486      
-jupyter-client==6.1.2
+jupyter-client==6.1.11
 JSON-log-formatter==0.3.0
 pandas==0.24.2
 pandas-gbq==0.13.1
