@@ -51,7 +51,7 @@ markupsafe==1.1.1
 matplotlib==3.0.3
 mdparse==0.13
 mistune==0.8.4
-more-itertools==8.2.0
+more-itertools==8.7.0
 murmurhash==1.0.2
 mwparserfromhell==0.5.3
 nbconvert==5.5.0
