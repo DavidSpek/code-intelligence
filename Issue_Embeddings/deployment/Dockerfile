@@ -4,7 +4,7 @@
 #
 # The context should be the root of the code-intelligence repository; this allows shared python code
 # (i.e. code in py/ to be pulled in.)
-FROM python:3.6-slim-stretch
+FROM python:3.7.10-slim-stretch
 
 RUN apt-get update 
 RUN apt-get upgrade -y
