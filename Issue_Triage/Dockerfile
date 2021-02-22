@@ -1,4 +1,4 @@
-FROM python:3.7.4
+FROM python:3.9.2
 
 COPY / .
 RUN pip install -r Issue_Triage/requirements.txt
