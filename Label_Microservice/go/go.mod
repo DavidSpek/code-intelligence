@@ -9,22 +9,21 @@ require (
 	github.com/golang/protobuf v1.4.2
 	github.com/google/uuid v1.1.1
 	github.com/gorilla/mux v1.7.3
-	github.com/hashicorp/go-uuid v1.0.1
 	github.com/onrik/logrus v0.6.0
 	github.com/onsi/ginkgo v1.11.0
 	github.com/onsi/gomega v1.8.1
 	github.com/pkg/errors v0.9.1
-	github.com/sirupsen/logrus v1.4.2
+	github.com/sirupsen/logrus v1.8.1
 	github.com/spf13/cobra v1.0.0
 
 	// We need a release newer then v0.14.1 because we need to pick up a fix
 	// to some annotations. So we pin to a newer commit.
 	// Once there is a release newer then 0.14.1 we can probably pin to that.
 	github.com/tektoncd/pipeline v0.14.1-0.20200715152659-1b28720e32b8
-
 	github.com/tidwall/gjson v1.6.0 // indirect
 	google.golang.org/api v0.28.0
 	google.golang.org/genproto v0.0.0-20200707001353-8e8330bf89df
+	google.golang.org/grpc v1.29.1
 	google.golang.org/protobuf v1.25.0
 	k8s.io/api v0.17.6
 	k8s.io/apimachinery v0.17.6
